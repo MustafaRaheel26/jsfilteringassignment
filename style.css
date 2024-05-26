@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    color: aliceblue;
+}
+button{
+    background-color: aqua;
+    color: black;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
